@@ -59,7 +59,7 @@ button {
 }
 
 .game-ended {
-  background-image: url("../images/gameover.gif");
+  background-image: url("../images/youlose.gif");
 }
 
 h1 {
